@@ -1,6 +1,6 @@
 # React Recipe App
 This app was created based on the Build a Recipe App with React by Dev Ed.
-Using this app, you can search recipies that has the keyword of your choice in the name.
+Using this app, you can search recipes that has the keyword of your choice in the name.
 The recipe search API is from https://developer.edamam.com/.
 The background image is from https://webgradients.com.
 
