@@ -4,6 +4,13 @@ Using this app, you can search recipes that has the keyword of your choice in th
 The recipe search API is from https://developer.edamam.com/.
 The background image is from https://webgradients.com.
 
+## How to use
+```
+git clone git@github.com:hannahkim7605/react-recipe-app.git
+cd react-recipe-app
+npm start
+```
+
 ### Searched with 'lemon'
 <img width="1440" alt="Screen Shot 2021-02-04 at 11 02 15 AM" src="https://user-images.githubusercontent.com/41644259/106919841-811c0b80-66d8-11eb-9b52-f199b623513e.png">
 
